@@ -1,0 +1,2 @@
+# erase template cache
+get

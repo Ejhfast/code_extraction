@@ -1,0 +1,2 @@
+# Caching disk operations
+mmap

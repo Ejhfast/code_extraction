@@ -1,0 +1,2 @@
+# hasattr with functions
+*attr()

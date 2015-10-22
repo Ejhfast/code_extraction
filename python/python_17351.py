@@ -1,0 +1,2 @@
+# Extracting a specific part of a string with regular expression in Python
+data = '{ns:"images",k:"5049",mid:"551FC833EDC139718135AA91A46D6B09FE89E85C",surl:"http://www.thewritingnut.com/blog-challenge/az-day-25-yellow-symbolisms/",imgurl:"http://www.thewritingnut.com/wp-content/uploads/2011/04/yellow-rose-800.jpg",oh:"199",tft:"0",oi:"http://www.thewritingnut.com/wp-content/uploads/2011/04/yellow-rose-800.jpg"}'

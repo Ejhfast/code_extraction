@@ -1,0 +1,3 @@
+# Read remote registry in python
+rem_reg = ConnectRegistry("remotename", HKEY_LOCAL_MACHINE)
+rem_reg.OpenKey( ...

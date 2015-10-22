@@ -1,0 +1,2 @@
+# MemoryError, python
+iterparse

@@ -1,0 +1,3 @@
+# Check if something is a list
+if not isinstance(a, basestring):
+    ...

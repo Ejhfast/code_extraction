@@ -1,0 +1,2 @@
+# Django HTTPS settings: Why does setting both SESSION_SAVE_EVERY_REQUEST and SESSION_COOKIE_SECURE break sessions?
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTOCOL', 'https')

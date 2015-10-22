@@ -1,0 +1,2 @@
+# Creating multidimentional list - Python
+[]

@@ -1,0 +1,2 @@
+# SQLAlchemy Unique Object
+UNIQUE

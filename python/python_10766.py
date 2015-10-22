@@ -1,0 +1,2 @@
+# Framebufferobject creation failed
+glGenRenderbuffersEXT

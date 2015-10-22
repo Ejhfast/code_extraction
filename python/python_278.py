@@ -1,0 +1,3 @@
+# "Private" (implementation) class in Python
+class _Internal:
+    ...

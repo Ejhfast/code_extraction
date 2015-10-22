@@ -1,0 +1,2 @@
+# Python hangman function
+return ''

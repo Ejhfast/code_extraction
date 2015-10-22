@@ -1,0 +1,2 @@
+# Controlling QProgressBar appearance
+render()

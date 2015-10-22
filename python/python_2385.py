@@ -1,0 +1,3 @@
+# for x in y, type iteration in python. Can I find out what iteration I'm currently on?
+for i,x in enumerate(y):
+    ....

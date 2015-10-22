@@ -1,0 +1,2 @@
+# Python Mirroring code
+oppstring = " "

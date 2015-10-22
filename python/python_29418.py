@@ -1,0 +1,2 @@
+# Timezones in Django
+getTimezoneOffset()

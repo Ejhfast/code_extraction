@@ -1,0 +1,3 @@
+# Python not recognising directories os.path.isdir()
+if not os.path.isdir(os.path.join(path, each)):
+  ...

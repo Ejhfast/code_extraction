@@ -1,0 +1,2 @@
+# Installing Matplotlib on CentOS 6.5
+g++ -pthread -shared build/temp.linux-x86_64-2.7/src/ft2font.o build/temp.linux-x86_64-2.7/src/mplutils.o build/temp.linux-x86_64-2.7/extern/CXX/cxxsupport.o build/temp.linux-x86_64-2.7/extern/CXX/cxx_extensions.o build/temp.linux-x86_64-2.7/extern/CXX/IndirectPythonInterface.o build/temp.linux-x86_64-2.7/extern/CXX/cxxextensions.o -L/usr/local/lib -L/usr/local/lib64 -L/usr/lib -L/usr/lib64 -L/usr/local/python2/2.7.8/x86_64/gcc46/nonet/lib -lfreetype -lstdc++ -lm -lpython2.7 -o build/lib.linux-x86_64-2.7/matplotlib/ft2font.so

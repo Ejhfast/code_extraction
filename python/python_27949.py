@@ -1,0 +1,2 @@
+# Testing with SQLAchemy
+InnoDB

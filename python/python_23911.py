@@ -1,0 +1,3 @@
+# Python requests, CSV, Sha256 and BOM
+z = r.text[2:]
+z.decode ...

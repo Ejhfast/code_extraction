@@ -1,0 +1,2 @@
+# How to generate a new map for jvectormap jquery plugin?
+python ^&nbsp;&nbsp;&nbsp;converter.py ^&nbsp;&nbsp;&nbsp;../../ne_10m_admin_1_states_provinces_shp.shp ^&nbsp;&nbsp;&nbsp;test-map.js ^&nbsp;&nbsp;&nbsp;--width 400 ^&nbsp;&nbsp;&nbsp;--where "ISO_3166_2 = 'RU-' and code_hasc!=''" ^&nbsp;&nbsp;&nbsp;--country_name_index 12 ^&nbsp;&nbsp;&nbsp;--country_code_index 18 ^&nbsp;&nbsp;&nbsp;--minimal_area 4000000 ^&nbsp;&nbsp;&nbsp;--buffer_distance -0.5 ^&nbsp;&nbsp;&nbsp;--simplify_tolerance 10000 ^&nbsp;&nbsp;&nbsp;--longitude0 54.8270 ^&nbsp;&nbsp;&nbsp;--name russia

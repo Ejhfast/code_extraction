@@ -1,0 +1,2 @@
+# Sending bytes via UDP packets without further conversion
+sendPacket('\x5f\x00\x00\x00\x01\x00\x07\x01\xcc\x00\x00\x00\x1f\x8b')

@@ -1,0 +1,3 @@
+# Python docx library text align
+paragraph = document.add_paragraph("This is a text")
+ paragraph.alignment = 0 # for left, 1 for right, 2 center, 3 justify ....

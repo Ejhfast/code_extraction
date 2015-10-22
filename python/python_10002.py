@@ -1,0 +1,3 @@
+# How to securely store LWPCookieJar objects in python?
+os.mkdir( myTmpDir, 0700 )
+// Now save the CookieJar in there...

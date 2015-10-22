@@ -1,0 +1,3 @@
+# Problems with hooks using Requests Python package
+def hook(r, **kwargs):
+    # ...

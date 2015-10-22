@@ -1,0 +1,2 @@
+# python_2_unicode_compatible error
+python_2_unicode_compatible

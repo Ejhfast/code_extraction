@@ -1,0 +1,3 @@
+# Celery result.get times out
+CELERY_RESULT_BACKEND = "amqp"
+CELERY_AMQP_TASK_RESULT_EXPIRES = 1000

@@ -1,0 +1,3 @@
+# Python - Parse string in "0xDE 0xAD 0xBE 0xEF" form to a bytearray
+3&gt;&gt; bytes(int(x, 16) for x in '0xDE 0xAD 0xBE 0xEF'.split())
+b'\xde\xad\xbe\xef'

@@ -1,0 +1,2 @@
+# catching SQLAlchemy exceptions
+SQLAlchemyError

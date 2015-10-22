@@ -1,0 +1,2 @@
+# Unhandled Exception Django
+install

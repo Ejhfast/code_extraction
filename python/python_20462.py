@@ -1,0 +1,3 @@
+# Itertools equivalent of nested loop "for x in xs: for y in ys..."
+for v, p, t in itertools.product(verbs, persons, tenses):
+    ...

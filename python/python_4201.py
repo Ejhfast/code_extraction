@@ -1,0 +1,2 @@
+# Puzzling Parallel Python Problem - TRANSPORT_SOCKET_TIMEOUT
+TRANSPORT_SOCKET_TIMEOUT

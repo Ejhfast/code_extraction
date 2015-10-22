@@ -1,0 +1,2 @@
+# Python, fping, cron
+fping

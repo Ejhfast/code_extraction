@@ -1,0 +1,3 @@
+# Python 3 - GeoPy and encoding
+with open('results.csv', mode='w', encoding='utf-8', newline='') as file:
+    ...

@@ -1,0 +1,2 @@
+# simplejson newline
+\n

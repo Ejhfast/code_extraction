@@ -1,0 +1,2 @@
+# PyQt and WebSockets
+QWebView

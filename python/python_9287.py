@@ -1,0 +1,3 @@
+# How to test if an attribute exists in some XML
+if 'Reference' in current_element.attrib:
+  ...do something with it...

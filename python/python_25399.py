@@ -1,0 +1,3 @@
+# Python List (with prime numbers)
+for x in [prime in P if prime&lt;=math.sqrt(p)]:
+    ...

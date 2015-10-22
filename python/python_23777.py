@@ -1,0 +1,1 @@
+# re_speaking =           r'^(&lt;bullet&gt; |  )((((((Mr)|(Ms)|(Mrs))\. [A-Z\']+|((Miss) [-A-Z\']+)(of [A-Z][a-z]+)?)|((The (VICE |Acting |ACTING )?(PRESIDENT|SPEAKER)( pro tempore)?)|(The PRESIDING OFFICER)|(The CLERK))( \([A-Za-z.\- ]+\))?))\. )?(?P&lt;start&gt;.)'

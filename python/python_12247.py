@@ -1,0 +1,2 @@
+# Transpose in SPSS
+flip.

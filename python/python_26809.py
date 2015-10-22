@@ -1,0 +1,3 @@
+# UnboundLocalError: local variable 'item' referenced before assignment (python, flask)
+item = dict['response']['checkins']['items'][0]
+return render_template('timeline.html',messages=query_db('''...

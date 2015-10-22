@@ -1,0 +1,3 @@
+# Write conditions based on a list
+if foo in ('a', 'b', 'c', 'd'):
+    #...

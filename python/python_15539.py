@@ -1,0 +1,2 @@
+# Python *apropos* command
+matplotlib

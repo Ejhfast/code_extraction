@@ -1,0 +1,3 @@
+# Assignment in python for loop possible?
+for key in (k for k in keys if not d[k]):
+   ....

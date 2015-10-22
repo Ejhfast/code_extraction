@@ -1,0 +1,3 @@
+# Dynamically choosing class to inherit from
+class newClass(A if os.name == 'nt' else B):
+    ...

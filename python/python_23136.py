@@ -1,0 +1,3 @@
+# Cannot properly generate URL with captured arguments using {% url %} template tag
+def setup(request, node_id):
+    ...

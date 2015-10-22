@@ -1,0 +1,2 @@
+# Hexadecimals in python
+char[] {0x04H, 0xfe, 0x13}

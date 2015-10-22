@@ -1,0 +1,2 @@
+# Numbers related query
+Long

@@ -1,0 +1,2 @@
+# Python curses question
+reset

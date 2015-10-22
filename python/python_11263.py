@@ -1,0 +1,2 @@
+# Python unicode trouble
+codecs

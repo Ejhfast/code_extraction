@@ -1,0 +1,2 @@
+# QApplication Font Color
+QAction

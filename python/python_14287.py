@@ -1,0 +1,3 @@
+# OpenERP login issue
+2013-03-19 11:28:09,249 1486 ERROR zeon1 openerp.sql_db: Programming error:  column ir_module_module.maintainer does not exist
+LINE 1: ...dule."menus_by_module",ir_module_module."website",ir_module_...

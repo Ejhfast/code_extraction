@@ -1,0 +1,2 @@
+# Pyramid directory structure confusion
+../

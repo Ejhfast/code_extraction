@@ -1,0 +1,3 @@
+# Need help specifying a ending while condition
+while not br.geturl().endswith("#"):
+    ...

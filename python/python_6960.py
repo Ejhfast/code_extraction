@@ -1,0 +1,3 @@
+# How to create a simple server with a get handler for Python 3.2?
+% python3.2 -m http.server 8000
+Serving HTTP on 0.0.0.0 port 8000 ...

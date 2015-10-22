@@ -1,0 +1,3 @@
+# web2py form process
+if form.accepts(request, session):
+    ....

@@ -1,0 +1,1 @@
+# var = getattr(mymodule, variablename)

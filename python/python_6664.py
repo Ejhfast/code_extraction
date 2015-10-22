@@ -1,0 +1,3 @@
+# Pythonic way of saying "if all of the elements in list 1 also exist in list 2"
+if set(list1) &lt;= set(list2):
+    #...

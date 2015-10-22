@@ -1,0 +1,1 @@
+# QTextBrowser.mouseReleaseEvent(self, mouseEvent)

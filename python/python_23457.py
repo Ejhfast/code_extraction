@@ -1,0 +1,2 @@
+# python regular expression grouping
+(.*?)#(.*)|(.+)

@@ -1,0 +1,2 @@
+# Python GUI development
+pyqt

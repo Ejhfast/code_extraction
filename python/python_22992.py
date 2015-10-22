@@ -1,0 +1,1 @@
+# parser = configparser.ConfigParser(delimiters=('?', '*'))

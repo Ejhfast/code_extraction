@@ -1,0 +1,2 @@
+# Python KeyboardInterrupt button
+SIGINT

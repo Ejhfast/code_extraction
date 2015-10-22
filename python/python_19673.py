@@ -1,0 +1,2 @@
+# Django custom signals
+send

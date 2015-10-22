@@ -1,0 +1,2 @@
+# Python generating Python
+{{something}}

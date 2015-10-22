@@ -1,0 +1,2 @@
+# MAPI error MAPI_E_STORE_FULL
+MFCMapi

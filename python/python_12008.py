@@ -1,0 +1,2 @@
+# Ampersand confusion
+&amp;amp;

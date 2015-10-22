@@ -1,0 +1,3 @@
+# Django 1.7 makemigrations - ValueError: Cannot serialize class
+class ThreadMethods(object):
+    # ....

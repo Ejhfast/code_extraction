@@ -1,0 +1,3 @@
+# How to iterate over the first n elements of a list?
+for item in your_list[:n]:
+    ...

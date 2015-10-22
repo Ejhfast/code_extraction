@@ -1,0 +1,3 @@
+# python: one-liner for 'if list[0] == "foo"' when list might be empty
+if list and list[0] == 'foo':
+    ....

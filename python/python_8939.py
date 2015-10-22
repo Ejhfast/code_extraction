@@ -1,0 +1,2 @@
+# Java: automatic memoization
+@Cacheable

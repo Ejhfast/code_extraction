@@ -1,0 +1,3 @@
+# If clause in regular Python for-loop
+for elem in (item for item in my_list if not (item=='')):
+    #Do something...

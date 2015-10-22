@@ -1,0 +1,3 @@
+# fixed Point function bug
+if abs(f(guess) - guess) &lt; epsilon:
+    ...

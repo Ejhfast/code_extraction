@@ -1,0 +1,2 @@
+# Python XML question
+foo

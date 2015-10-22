@@ -1,0 +1,3 @@
+# Is it safe to rely on condition evaluation order in if statements?
+IF exists(variable) AND variable.doSomething()
+    THEN ...

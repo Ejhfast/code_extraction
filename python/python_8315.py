@@ -1,0 +1,2 @@
+# MongoEngine Indexes
+ensureIndex

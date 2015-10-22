@@ -1,0 +1,2 @@
+# Python Beginner - Build a regex with optionnal characters
+r = '(\\w+) access = (\\w+)\\s+Vol ID = (\\w+)\\s+Snap ID = (\\w+)\\s+Inode = (\\w+)\\s+IP = ((\\d|\\.)+)\\s+UID = (\\w+)\\s+Full Path = (\\S+)\\s+Handle ID: (\\S+)\\s+Operation ID: (\\S+)\\s+Process ID: (\\d+)\\s+Image File Name: (\\w+\\s+\\w+\\s+\\w+)\\s+Primary User Name: (\\S+)\\s+Primary Domain: (\\S+)\\s+Primary Logon ID: (.....\\s+......)\\s+Client User Name: (\\S+)\\s+Client Domain: (\\S+)\\s+Client Logon ID: (\\S+)\\s+Accesses: (.*)'

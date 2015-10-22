@@ -1,0 +1,3 @@
+# Module import Error Python
+#!/usr/local/bin/python
+# Even thought standard python is in /usr/bin/python, here we want another ...

@@ -1,0 +1,2 @@
+# Append error, Python
+SyntaxError

@@ -1,0 +1,3 @@
+# If x is 3 higher than y
+if attempt == rndnumber + 3 or attempt == rndnumber - 3:
+    # Do something...

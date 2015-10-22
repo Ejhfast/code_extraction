@@ -1,0 +1,3 @@
+# Assignment in While Loop in Python?
+for line in data:
+    ... do stuff ...

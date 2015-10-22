@@ -1,0 +1,2 @@
+# Python global variable
+boo

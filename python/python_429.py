@@ -1,0 +1,2 @@
+# delete *.pyc
+reload(three)

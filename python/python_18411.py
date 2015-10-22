@@ -1,0 +1,3 @@
+# Django Blog Text Formatting (Beginner)
+...
+&lt;p&gt;{{ article.body|linebreaks }}&lt;/p&gt;

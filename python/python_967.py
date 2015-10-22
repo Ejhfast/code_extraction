@@ -1,0 +1,2 @@
+# Python imaging alternatives
+quality=

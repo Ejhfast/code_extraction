@@ -1,0 +1,3 @@
+# blinker does not work in Python 2.6
+class Ticket(object):
+    ...

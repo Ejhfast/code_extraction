@@ -1,0 +1,2 @@
+# mysqldb environment
+mysql-devel

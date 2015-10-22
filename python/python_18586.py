@@ -1,0 +1,2 @@
+# Python doctest exceptions
+doctest

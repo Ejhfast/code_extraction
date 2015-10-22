@@ -1,0 +1,2 @@
+# Integrating youtube videos in django sites
+&lt;object style="height: 390px; width: 640px"&gt;&lt;param name="movie" value="http://www.youtube.com/v/v1gTI4BOPUw?version=3"&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;embed src="http://www.youtube.com/v/v1gTI4BOPUw?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"&gt;&lt;/object&gt;

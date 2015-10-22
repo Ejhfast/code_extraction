@@ -1,0 +1,2 @@
+# wxPython Binding Problem
+CaptureMouse

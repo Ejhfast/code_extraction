@@ -1,0 +1,2 @@
+# Python Ghost Bot
+memory = {}

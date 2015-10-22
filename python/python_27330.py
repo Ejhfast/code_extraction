@@ -1,0 +1,3 @@
+# Compare raw_input to text in a file
+if word == f.rstrip():
+    ...

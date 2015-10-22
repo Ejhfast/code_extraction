@@ -1,0 +1,1 @@
+# sqlhub.processConnection = connectionForURI(connStr)

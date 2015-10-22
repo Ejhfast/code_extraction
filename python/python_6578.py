@@ -1,0 +1,3 @@
+# Emacs Lisp: Open a new frame, start IPython, run previous buffer
+(let ((my-buffer-name (buffer-name))
+   ....

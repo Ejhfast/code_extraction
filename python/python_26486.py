@@ -1,0 +1,2 @@
+# update python last record only
+cursor.execute("update characters set characterName = ?, characterID = ?, corporationName =?, corporationID = ?, allianceID = ?, allianceName = ?, factionID = ?, factionName =? where keyID = ? and vCode = ?;", (character.name, character.characterID, character.corporationName, character.corporationID, character.allianceID, character.allianceName, character.factionID, character.factionName, row.keyID, row.vCode))

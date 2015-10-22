@@ -1,0 +1,2 @@
+# pyodbc Cursor Reuse
+.fetchall()

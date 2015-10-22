@@ -1,0 +1,2 @@
+# Python loop doubt
+seek
